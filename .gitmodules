@@ -1,0 +1,3 @@
+[submodule "Plugins/ShellCmd"]
+	path = Plugins/ShellCmd
+	url = https://github.com/n1ckfg/ShellCmd
