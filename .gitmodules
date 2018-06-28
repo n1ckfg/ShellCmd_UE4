@@ -1,3 +1,6 @@
 [submodule "Plugins/ShellCmd"]
 	path = Plugins/ShellCmd
 	url = https://github.com/n1ckfg/ShellCmd
+[submodule "Plugins/UnrealEnginePython"]
+	path = Plugins/UnrealEnginePython
+	url = https://github.com/20tab/UnrealEnginePython
